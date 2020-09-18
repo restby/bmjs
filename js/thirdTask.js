@@ -173,3 +173,22 @@
 // console.log(johnSolder.health);
 // console.log(johnSolder.armor);
 // console.log(johnSolder.skills);
+
+// function hello() {
+//   console.log('Hello World!');
+// }
+// hello();
+
+// function hi() {
+//   console.log('HI my frend!');
+// }
+// hi();
+
+// // сортировка по возрастанию
+// let arr = [1, 2, 3, 11, 122, 23, 31, 29, 37],
+//   sortArr = arr.sort(compareNum);
+// function compareNum(a, b) {
+//   return a - b;
+// }
+// console.log(arr);
+
